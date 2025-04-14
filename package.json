@@ -5,10 +5,10 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
-  "repository": "wsmd/react-use-form-state",
+  "repository": "robertmglynn/react-use-form-state",
   "homepage": "http://react-use-form-state.now.sh",
   "bugs": {
-    "url": "https://github.com/wsmd/react-use-form-state/issues"
+    "url": "https://github.com/robertmglynn/react-use-form-state/issues"
   },
   "author": "Waseem Dahman <dwaseem@icloud.com>",
   "license": "MIT",
